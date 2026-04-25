@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Strategy_01",
+    "timeframe": "5m",
+    "max_trades": 5,
+    "type": "Scalping",
+    "created": "2025-10-27T16:07:32.866012",
+    "status": "Active",
+    "performance": "0.0%",
+    "trades": "0",
+    "win_rate": "0.0%",
+    "active": true
+  }
+]

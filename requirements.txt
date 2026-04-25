@@ -1,0 +1,10 @@
+freqtrade
+pandas
+numpy
+scikit-learn
+TA-Lib
+python-dotenv
+requests
+matplotlib
+scipy
+ccxt
